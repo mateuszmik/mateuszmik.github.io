@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Windows 2016 Docker Setup
+description: Notes from installation process of powershell and docker on win 2016
 
 url: mateuszmik.github.io
 baseurl: ""
@@ -22,6 +22,5 @@ navigation:
 social:
    github: mateuszmik
    twitter: mateuszmik
-   email: brimaidesigns@gmail.com
 
 google_analytics: "UA-58263416-1"
